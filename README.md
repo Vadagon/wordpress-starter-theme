@@ -1,4 +1,4 @@
-# Wordpress Starter Theme
+# WordPress Starter Theme
 
 Warning!!! This is the most simple and understandable theme for wordpress ever.
 
