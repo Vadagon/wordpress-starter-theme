@@ -2,7 +2,7 @@
 
 Warning!!! This is the most simple and understandable theme for wordpress ever.
 
-This theme good for those who need convert simple HTML website to wordpress in minutes.
+This theme good for those who need convert simple HTML website to wordpress theme in minutes.
 
 How to use? 
 1. fork it
