@@ -8,6 +8,11 @@ How to use?
 1. fork it
 2. upload to the server (theme folder)
 3. activate it in WP admin panel
-4. easely edit theme files in you favorite text editor
+
+Hints:
+1. use **echo get_stylesheet_directory_uri()** to access files inside theme folder
+For example: 	
+<link rel='stylesheet' href="<?php echo get_stylesheet_directory_uri(); ?>/bower_components/components-font-awesome/css/font-awesome.min.css" | relative_url }}" type='text/css' media='all' />
+
 
 Feel free to contribute!
