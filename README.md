@@ -12,7 +12,7 @@ How to use?
 Hints:
 1. use **echo get_stylesheet_directory_uri()** to access files inside theme folder
 For example: 	
-<link rel='stylesheet' href="<?php echo get_stylesheet_directory_uri(); ?>/bower_components/components-font-awesome/css/font-awesome.min.css" | relative_url }}" type='text/css' media='all' />
+\*<link rel='stylesheet' href="<?php echo get_stylesheet_directory_uri(); ?>/bower_components/components-font-awesome/css/font-awesome.min.css" | relative_url }}" type='text/css' media='all' />\*
 
 
 Feel free to contribute!
