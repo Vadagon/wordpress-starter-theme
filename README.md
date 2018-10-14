@@ -10,4 +10,4 @@ How to use?
 3. activate it in WP admin panel
 4. easely edit theme files in you favorite text editor
 
-Feel free to commit!
+Feel free to contribute!
