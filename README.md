@@ -1,5 +1,7 @@
 # Wordpress Starter Theme
+
 Warning!!! This is the most simple and understandable theme for wordpress ever.
+
 This theme good for those who need convert simple HTML website to wordpress in minutes.
 
 How to use? 
